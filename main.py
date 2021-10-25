@@ -45,6 +45,8 @@ if (x == y and x != z) or (x == z and x != y) or (y == z and y != x):
 else:
     print("Bruh")
 
+# Task 2    
+    
 x1 = int(input("x1="))
 y1 = int(input("y1="))
 x2 = int(input("x2="))
